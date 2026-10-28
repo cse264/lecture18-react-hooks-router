@@ -1,0 +1,21 @@
+{
+  "name": "lecture18-react-hooks-router",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CSE 264 Lecture 18 in-class activity: React hooks and React Router",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-router-dom": "7.18.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.2",
+    "vite": "8.3.4"
+  }
+}

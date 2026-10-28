@@ -1,0 +1,86 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "Tony's Brick Oven",
+    "cuisine": "Italian",
+    "price_level": 1,
+    "zone_code": "SSB"
+  },
+  {
+    "restaurant_id": 2,
+    "name": "The Taco Spot",
+    "cuisine": "Mexican",
+    "price_level": 1,
+    "zone_code": "LUC"
+  },
+  {
+    "restaurant_id": 3,
+    "name": "Golden Wok",
+    "cuisine": "Chinese",
+    "price_level": 2,
+    "zone_code": "DTE"
+  },
+  {
+    "restaurant_id": 4,
+    "name": "Bella Vista",
+    "cuisine": "Italian",
+    "price_level": 3,
+    "zone_code": "HLT"
+  },
+  {
+    "restaurant_id": 5,
+    "name": "Sushi Go",
+    "cuisine": "Japanese",
+    "price_level": 2,
+    "zone_code": "SSB"
+  },
+  {
+    "restaurant_id": 6,
+    "name": "Mountain Hawk Grill",
+    "cuisine": "American",
+    "price_level": 2,
+    "zone_code": "LUC"
+  },
+  {
+    "restaurant_id": 7,
+    "name": "Pita Palace",
+    "cuisine": "Mediterranean",
+    "price_level": 1,
+    "zone_code": "DTE"
+  },
+  {
+    "restaurant_id": 8,
+    "name": "Saffron Kitchen",
+    "cuisine": "Indian",
+    "price_level": 2,
+    "zone_code": "SSB"
+  },
+  {
+    "restaurant_id": 9,
+    "name": "The Pizza Pit",
+    "cuisine": "Italian",
+    "price_level": 1,
+    "zone_code": "LUC"
+  },
+  {
+    "restaurant_id": 10,
+    "name": "Steel City Diner",
+    "cuisine": "American",
+    "price_level": 1,
+    "zone_code": "HLT"
+  },
+  {
+    "restaurant_id": 11,
+    "name": "Pho Real",
+    "cuisine": "Vietnamese",
+    "price_level": 2,
+    "zone_code": "DTE"
+  },
+  {
+    "restaurant_id": 12,
+    "name": "The Green Fork",
+    "cuisine": "Vegetarian",
+    "price_level": 3,
+    "zone_code": "SSB"
+  }
+]
